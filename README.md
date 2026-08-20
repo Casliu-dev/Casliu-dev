@@ -11,9 +11,11 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
 
 #
 
-<div align="center">
-  <img alt="Edgerunners" height="190px" src="./assets/edgerunners.gif">
-</div>
+<img align="right" alt="Edgerunners" height="190px" src="./assets/edgerunners.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/vzk.pdrx/)
 
 <h3 align="left">My Stack ~</h3>
 
