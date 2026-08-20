@@ -5,7 +5,7 @@
 
 #
 
-Hello there, my name is Pedro but you can call me **casliu**. I am a web developer and I'm studying cyber-security. I love to explore things and technology.
+Hello there, my name is casliu. I am a web developer and I'm studying cyber-security. I love to explore things and technology.
 
 #
 
