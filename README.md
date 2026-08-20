@@ -23,7 +23,7 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -31,7 +31,7 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -39,7 +39,7 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -48,7 +48,7 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     align="left"
     alt="Github"
     title="GitHub"
-    width="30px"
+    width="48px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
@@ -57,7 +57,7 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -66,7 +66,7 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     align="left" 
     alt="Kali Linux" 
     title="Kali Linux"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
 />
@@ -75,7 +75,7 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     align="left" 
     alt="Linux" 
     title="Linux"
-    width="30px" 
+    width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
