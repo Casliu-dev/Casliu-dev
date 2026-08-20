@@ -1,6 +1,6 @@
 <!-- ===================== BANNER / CAPA ===================== -->
 <div align="center">
-  <img src="./assets/banner.gif" alt="banner" width="100%" />
+  <img src="./assets/banner.gif" alt="banner" width="70%" />
 </div>
 
 #
