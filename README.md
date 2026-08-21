@@ -61,24 +61,6 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="Kali Linux" 
-    title="Kali Linux"
-    width="48px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="48px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
 <br/>
 <br/>
 
