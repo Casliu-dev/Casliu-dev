@@ -15,7 +15,7 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
 
 <h3 align="left">Connect with me!</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/vzk.pdrx/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/casliu.dev/)
 
 <h3 align="left">My Stack ~</h3>
 
