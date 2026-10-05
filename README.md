@@ -7,7 +7,7 @@
 
 #
 
-Hello there, my name is casliu. I am a web developer and I'm studying cyber-security. im from São Paulo I love to explore things, and technology.
+Hello there, my name is casliu. I am a developer and I'm studying cyber-security. im from São Paulo I love to explore things, and technology.
 
 #
 
@@ -70,6 +70,16 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" 
 />
+
+ <img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="48px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" 
+    />
+    
 <br/>
 <br/>
 
