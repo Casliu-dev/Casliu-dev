@@ -60,6 +60,14 @@ Hello there, my name is casliu. I am a web developer and I'm studying cyber-secu
     width="48px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+
+  <img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="48px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" 
 />
 <br/>
 <br/>
